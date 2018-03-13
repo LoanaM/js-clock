@@ -7,8 +7,9 @@
   text-align: center;
   font-size: 35px;
   color: white;
-  border: 1px dotted black;
+  border: 3px dotted black;
   display: inline-block;
+  margin-right: -4px;
 }
 .date{
   border: 2px outset black;
@@ -16,4 +17,6 @@
   display: block;
   width: 300px;
   height: auto;
+  text-align: center;
+  background-color: #e29fff;
 }
