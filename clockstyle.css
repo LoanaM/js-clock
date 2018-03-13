@@ -1,0 +1,19 @@
+.clock {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  line-height: 100px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  border: 1px dotted black;
+  display: inline-block;
+}
+.date{
+  border: 2px outset black;
+  font-size: 25px;
+  display: block;
+  width: 300px;
+  height: auto;
+}
